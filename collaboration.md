@@ -1,0 +1,1 @@
+A small public collaboration to validate coauthored contribution credit.
